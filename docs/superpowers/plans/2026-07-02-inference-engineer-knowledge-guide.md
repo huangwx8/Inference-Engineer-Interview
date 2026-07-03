@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Create a Chinese Markdown knowledge guide that turns six inference-related job descriptions into a reusable personal interview knowledge system.
+**Goal:** Create a Chinese Markdown knowledge guide that turns five inference-related roles shown across six screenshots into a reusable personal interview knowledge system.
 
 **Architecture:** Keep the knowledge system in one reader-facing document organized as a six-layer capability map, with three specialization branches and a source-traceability table. Add a single README entry so the guide is discoverable without mixing implementation notes into the reader-facing document.
 
@@ -30,7 +30,7 @@ Create `docs/inference-engineer-knowledge-guide.md` with these top-level section
 ## 四、能力深度标准
 ## 五、如何从 JD 判断岗位侧重点
 ## 六、面试知识检查表
-## 七、六份 JD 的共同特征
+## 七、岗位样本的共同特征
 ```
 
 - [ ] **Step 2: Write the role model and six knowledge layers**
